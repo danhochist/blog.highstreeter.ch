@@ -3,6 +3,7 @@ layout: post
 title:  Summarization of the article "What's Wrong with AI? A Discussion Paper"
 date:   2020-09-02 18:17:35 +0200
 categories: artificial intelligence
+comments: true
 ---
 # Summarization of the article "What's Wrong with AI? A Discussion Paper"
 
