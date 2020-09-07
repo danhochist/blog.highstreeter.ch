@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://blog.highstreeter.ch/feed.xml" rel="self" type="application/atom+xml" /><link href="http://blog.highstreeter.ch/" rel="alternate" type="text/html" /><updated>2020-09-07T08:25:47+00:00</updated><id>http://blog.highstreeter.ch/feed.xml</id><title type="html">Blog Website of Dan</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Summarization of the article “What’s Wrong with AI? A Discussion Paper”</title><link href="http://blog.highstreeter.ch/artificial/intelligence/2020/09/02/summary_whats_wrong_with_AI.html" rel="alternate" type="text/html" title="Summarization of the article “What’s Wrong with AI? A Discussion Paper”" /><published>2020-09-02T16:17:35+00:00</published><updated>2020-09-02T16:17:35+00:00</updated><id>http://blog.highstreeter.ch/artificial/intelligence/2020/09/02/summary_whats_wrong_with_AI</id><content type="html" xml:base="http://blog.highstreeter.ch/artificial/intelligence/2020/09/02/summary_whats_wrong_with_AI.html">&lt;h1 id=&quot;summarization-of-the-article-whats-wrong-with-ai-a-discussion-paper&quot;&gt;Summarization of the article “What’s Wrong with AI? A Discussion Paper”&lt;/h1&gt;
+
+&lt;p&gt;In this short blogpost I will summaries the article with the title “What’s Wrong with AI? A Discussion Paper” from the author Dirk Helbing. The author writes about the how far AI has come and where it may be in several years. He also mentions philosophical questions about AI vs. humans in general and where we can use it for good purposes. Let’s start with where we’re using AI and what famous entrepreneurs think about that topic.&lt;/p&gt;
+
+&lt;h2 id=&quot;ai-on-the-rise&quot;&gt;AI on the rise&lt;/h2&gt;
+
+&lt;p&gt;First of all AI has changed our thinking about it. Some years ago we may have thought  that it is not that harmful and will always be under our control because we created it. But nowadays we think that it will overtake us and we compare it even with a God.&lt;/p&gt;
+
+&lt;p&gt;The term singularity is used in this context as the point where machines are more intelligent than multiple human brains combined and overtake us on the way we think and interact with each other. The author also talks about the effect on unemployment when this happens and algorithms that decide over death and life. Has AI really gone that far?&lt;/p&gt;
+
+&lt;p&gt;This question is answered with no from the writers perspective. AI’s are only as autonomous to the degree that humans provide resources for them or maintain them. Their also not emotional as we are since their only interact with a human they way we told it to do. Are they even intelligent? In some way they are more intelligent than humans but only on a specific task.&lt;/p&gt;
+
+&lt;p&gt;The writer concludes the passage with the thought that we may overestimate AI in some ways.&lt;/p&gt;
+
+&lt;h2 id=&quot;can-we-trust-it&quot;&gt;Can we trust it?&lt;/h2&gt;
+
+&lt;p&gt;Is an AI driven car trust able, when it has to decide what kind of accident is less damaging in a human perspective? In a lot of ways no, says the writer. Since Edward Snowden  released the documents of the National Security Agency (NSA), it is clear that AI can be used to attack our privacy.&lt;/p&gt;
+
+&lt;p&gt;There is also an experiment ongoing in China that scores people based on their habit. They say it is possible with the score to decide over a human life, let’s say if the human can have a great job or if his score is to low. Still China calls itself a democracy, when the state rather could be a technological totalitarianism.&lt;/p&gt;
+
+&lt;p&gt;It is also clear that it is not good that judges will only be running by an AI, to save money. Maybe a semi-automated AI system could help, where humans can decide if a case is unclear.&lt;/p&gt;
+
+&lt;h2 id=&quot;design-for-values&quot;&gt;Design for values&lt;/h2&gt;
+
+&lt;p&gt;What are our values. Are they only based on how much money we have? Can AI have a place in a world where people thrive for happiness rather than capitalism? Physiology says that humans are happy if they have good relationships and that this brings more happiness than capitalism on its own.&lt;/p&gt;
+
+&lt;p&gt;The writer concludes that democratic values such as the fallowing are relevant: human dignity, human rights, self-determination, freedom, pluralism, protection of minorities, division of power, checks and balances, participation, transparency, fairness, justice, legitimacy, anonymous and equal votes, and privacy. If an AI can’t help accomplish these things than it will harm us.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;In my opinion it is clear that AI has not overtaken us by now, at least what I know. AI can indeed help us in our daily workloads to reduce it and establish a deeper understanding of one specific task. We also have to consider that it doesn’t harm us as humans. I hope in the KI1 course I can answer in some way the question what kind of effect it has on me and if it changes my future in particular. My expectation on this course is to have a deeper knowledge on this topic and ideas in which areas it might be helpful to use it.&lt;/p&gt;</content><author><name></name></author><category term="artificial" /><category term="intelligence" /><summary type="html">Summarization of the article “What’s Wrong with AI? A Discussion Paper”</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://blog.highstreeter.ch/jekyll/update/2020/08/29/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-08-29T14:26:35+00:00</published><updated>2020-08-29T14:26:35+00:00</updated><id>http://blog.highstreeter.ch/jekyll/update/2020/08/29/welcome-to-jekyll</id><content type="html" xml:base="http://blog.highstreeter.ch/jekyll/update/2020/08/29/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
